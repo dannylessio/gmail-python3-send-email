@@ -6,9 +6,7 @@ A ready to use python 3 inteface for sending emails with Google Python API
 <br>
 
 # USAGE
-Simply change RECEIVER_EMAIL with your email receiver and launch the file.
-<br>
-Change the main() function and have fun!
+Only change RECEIVER_EMAIL with your email receiver.
 
 # RUN
 python send_email.py

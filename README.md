@@ -1,11 +1,9 @@
 # gmail-python3-send-email
 A ready to use python 3 inteface for sending emails with Google Python API
 
-# INSTALLATION
-* clone this repo
-```
-pip install --upgrade google-api-python-client
-```
+# REQUIREMENTS
+* Only follow steps [1] and [2] that you find [Here](https://developers.google.com/gmail/api/quickstart/python#step_1_turn_on_the_api_name)
+<br>
 
 # USAGE
 Simply change RECEIVER_EMAIL with your email receiver and launch the file.
